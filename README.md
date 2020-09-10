@@ -1,2 +1,4 @@
-This is holiday finder landing page (without holiday finder function:)
+This is holiday finder landing page
 You can see this landing page here: https://yevhenlisitskiy.github.io/Holyday-finder/
+
+Adaptive layout coming soon)
